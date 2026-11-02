@@ -2,8 +2,8 @@
 
 ### A second life for your hardware. Better place for makers.
 
-OToS is a open-source ligthweight linux distribution to make older hardware useful again while 
-providing a better environtment for makers,developers and hardware enthusiasts.
+OToS is an open-source lightweight linux distribution to make older hardware useful again while 
+providing a better environment for makers,developers and hardware enthusiasts.
 
 Built on Debian, OToS aims to combine low system resource usage 
 with a approacheable desktop experience and tools for electronics development 
