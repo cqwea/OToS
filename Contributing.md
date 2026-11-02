@@ -1,4 +1,4 @@
-#CONTRİBUTİNG TO OToS
+# CONTRİBUTİNG TO OToS
 First of all thank you for your interest in contributing the OToS Project!
 
 OToS is a lightweight linux based operating systems thats designed to give old hardware a second life and making hardware development and digital fabrication easier.
