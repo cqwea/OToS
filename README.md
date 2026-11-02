@@ -1,3 +1,3 @@
 # OToS Linux
 
-### a
+### A second life for your hardware. Better place for makers.
